@@ -1,4 +1,5 @@
 venv
 data
 models
+test_images
 __pycache__
